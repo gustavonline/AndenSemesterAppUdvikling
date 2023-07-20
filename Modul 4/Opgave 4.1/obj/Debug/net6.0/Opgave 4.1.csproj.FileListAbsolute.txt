@@ -1,0 +1,15 @@
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/bin/Debug/net6.0/Opgave 4.1
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/bin/Debug/net6.0/Opgave 4.1.deps.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/bin/Debug/net6.0/Opgave 4.1.runtimeconfig.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/bin/Debug/net6.0/Opgave 4.1.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/bin/Debug/net6.0/Opgave 4.1.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/Opgave 4.1.csproj.AssemblyReference.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/Opgave 4.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/Opgave 4.1.AssemblyInfoInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/Opgave 4.1.AssemblyInfo.cs
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/Opgave 4.1.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/Opgave 4.1.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/refint/Opgave 4.1.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/Opgave 4.1.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/Opgave 4.1.genruntimeconfig.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 4/Opgave 4.1/obj/Debug/net6.0/ref/Opgave 4.1.dll

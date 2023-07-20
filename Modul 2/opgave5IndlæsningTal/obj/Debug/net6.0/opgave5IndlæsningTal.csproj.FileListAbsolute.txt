@@ -1,0 +1,15 @@
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/bin/Debug/net6.0/opgave5IndlæsningTal
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/bin/Debug/net6.0/opgave5IndlæsningTal.deps.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/bin/Debug/net6.0/opgave5IndlæsningTal.runtimeconfig.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/bin/Debug/net6.0/opgave5IndlæsningTal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/bin/Debug/net6.0/opgave5IndlæsningTal.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/opgave5IndlæsningTal.csproj.AssemblyReference.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/opgave5IndlæsningTal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/opgave5IndlæsningTal.AssemblyInfoInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/opgave5IndlæsningTal.AssemblyInfo.cs
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/opgave5IndlæsningTal.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/opgave5IndlæsningTal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/refint/opgave5IndlæsningTal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/opgave5IndlæsningTal.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/opgave5IndlæsningTal.genruntimeconfig.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave5IndlæsningTal/obj/Debug/net6.0/ref/opgave5IndlæsningTal.dll

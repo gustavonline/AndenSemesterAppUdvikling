@@ -1,0 +1,15 @@
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/bin/Debug/net6.0/opgave6PotensKvadratrod
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/bin/Debug/net6.0/opgave6PotensKvadratrod.deps.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/bin/Debug/net6.0/opgave6PotensKvadratrod.runtimeconfig.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/bin/Debug/net6.0/opgave6PotensKvadratrod.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/bin/Debug/net6.0/opgave6PotensKvadratrod.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/opgave6PotensKvadratrod.csproj.AssemblyReference.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/opgave6PotensKvadratrod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/opgave6PotensKvadratrod.AssemblyInfoInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/opgave6PotensKvadratrod.AssemblyInfo.cs
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/opgave6PotensKvadratrod.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/opgave6PotensKvadratrod.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/refint/opgave6PotensKvadratrod.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/opgave6PotensKvadratrod.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/opgave6PotensKvadratrod.genruntimeconfig.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 2/opgave6PotensKvadratrod/obj/Debug/net6.0/ref/opgave6PotensKvadratrod.dll

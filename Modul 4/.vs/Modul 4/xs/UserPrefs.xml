@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{86D185C0-84FC-4DDD-932E-5EACB7AA8185}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Opgave 4.1/diceCreateDiceFrequency.cs">
+    <Files>
+      <File FileName="Opgave 4.1/Program.cs" Line="6" Column="39" />
+      <File FileName="Opgave 4.1/diceApp.cs" Line="14" Column="60" />
+      <File FileName="Opgave 4.1/dice.cs" Line="30" Column="10" />
+      <File FileName="Opgave 4.1/diceCreateDiceFrequency.cs" Line="22" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modul 4" expanded="True">
+            <Node name="Opgave 4.1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Opgave_2204.1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

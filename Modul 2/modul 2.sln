@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algoritme - stamp5&3", "algoritme\algoritme - stamp5&3.csproj", "{E31781AC-440E-4371-9E0F-EB71DC7D4AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algoritme palindrom", "algoritme palindrom\algoritme palindrom.csproj", "{DFD0705E-9CA4-492F-89A4-3DA2CA50E880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave5IndlæsningTal", "opgave5IndlæsningTal\opgave5IndlæsningTal.csproj", "{FE6082BC-F4F1-41CF-A45E-0BC42EC92ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave6PotensKvadratrod", "opgave6PotensKvadratrod\opgave6PotensKvadratrod.csproj", "{0F53C712-BB6E-4A53-BFA1-3985E074626A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31781AC-440E-4371-9E0F-EB71DC7D4AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31781AC-440E-4371-9E0F-EB71DC7D4AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31781AC-440E-4371-9E0F-EB71DC7D4AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31781AC-440E-4371-9E0F-EB71DC7D4AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD0705E-9CA4-492F-89A4-3DA2CA50E880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD0705E-9CA4-492F-89A4-3DA2CA50E880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD0705E-9CA4-492F-89A4-3DA2CA50E880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD0705E-9CA4-492F-89A4-3DA2CA50E880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6082BC-F4F1-41CF-A45E-0BC42EC92ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6082BC-F4F1-41CF-A45E-0BC42EC92ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6082BC-F4F1-41CF-A45E-0BC42EC92ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6082BC-F4F1-41CF-A45E-0BC42EC92ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F53C712-BB6E-4A53-BFA1-3985E074626A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F53C712-BB6E-4A53-BFA1-3985E074626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F53C712-BB6E-4A53-BFA1-3985E074626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F53C712-BB6E-4A53-BFA1-3985E074626A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C651EDE9-028A-417E-B6D8-68B653C71920}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/bin/Debug/net6.0/Sum2tal
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/bin/Debug/net6.0/Sum2tal.deps.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/bin/Debug/net6.0/Sum2tal.runtimeconfig.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/bin/Debug/net6.0/Sum2tal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/bin/Debug/net6.0/Sum2tal.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/Sum2tal.csproj.AssemblyReference.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/Sum2tal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/Sum2tal.AssemblyInfoInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/Sum2tal.AssemblyInfo.cs
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/Sum2tal.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/Sum2tal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/refint/Sum2tal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/Sum2tal.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/Sum2tal.genruntimeconfig.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/Sum2tal/obj/Debug/net6.0/ref/Sum2tal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/bin/Debug/net6.0/Sum2tal
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/bin/Debug/net6.0/Sum2tal.deps.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/bin/Debug/net6.0/Sum2tal.runtimeconfig.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/bin/Debug/net6.0/Sum2tal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/bin/Debug/net6.0/Sum2tal.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/Sum2tal.csproj.AssemblyReference.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/Sum2tal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/Sum2tal.AssemblyInfoInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/Sum2tal.AssemblyInfo.cs
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/Sum2tal.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/Sum2tal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/refint/Sum2tal.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/Sum2tal.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/Sum2tal.genruntimeconfig.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/Sum2tal/obj/Debug/net6.0/ref/Sum2tal.dll

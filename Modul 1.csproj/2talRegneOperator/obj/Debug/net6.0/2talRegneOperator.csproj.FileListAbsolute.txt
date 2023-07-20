@@ -1,0 +1,30 @@
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator.deps.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator.runtimeconfig.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.csproj.AssemblyReference.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.AssemblyInfoInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.AssemblyInfo.cs
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/refint/2talRegneOperator.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.genruntimeconfig.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/ITA1/2talRegneOperator/obj/Debug/net6.0/ref/2talRegneOperator.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator.deps.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator.runtimeconfig.json
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/bin/Debug/net6.0/2talRegneOperator.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.csproj.AssemblyReference.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.AssemblyInfoInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.AssemblyInfo.cs
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/refint/2talRegneOperator.dll
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.pdb
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/2talRegneOperator.genruntimeconfig.cache
+/Users/gustavanderson/Library/CloudStorage/GoogleDrive-gustavbroegger@icloud.com/My Drive/IT-Architecture/AppUdvikling/Modul 1.csproj/2talRegneOperator/obj/Debug/net6.0/ref/2talRegneOperator.dll

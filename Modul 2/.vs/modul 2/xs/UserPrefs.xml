@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0F53C712-BB6E-4A53-BFA1-3985E074626A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="opgave6PotensKvadratrod/Program.cs">
+    <Files>
+      <File FileName="opgave6PotensKvadratrod/Program.cs" Line="11" Column="6" />
+      <File FileName="opgave6PotensKvadratrod/kvadratrodderPotens.cs" Line="18" Column="1" />
+      <File FileName="opgave5IndlæsningTal/talSumProduktGennemsnit.cs" Line="20" Column="1" />
+      <File FileName="algoritme palindrom/booleanPalindrom.cs" Line="22" Column="1" />
+      <File FileName="opgave5IndlæsningTal/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul 2" expanded="True">
+            <Node name="algoritme - stamp5&amp;3" expanded="True" />
+            <Node name="algoritme palindrom" expanded="True" />
+            <Node name="opgave5IndlæsningTal" expanded="True" />
+            <Node name="opgave6PotensKvadratrod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.algoritme_220-_220stamp5_2263 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.opgave5IndlæsningTal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.opgave6PotensKvadratrod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.algoritme_220palindrom PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2EB1D780-C100-471A-A7D2-E88CB99356D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordguesserConsole/RandomWords.cs">
+    <Files>
+      <File FileName="WordguesserConsole/Program.cs" Line="8" Column="17" />
+      <File FileName="WordguesserConsole/App.cs" Line="23" Column="28" />
+      <File FileName="WordguesserConsole/RandomWords.cs" Line="16" Column="47" />
+      <File FileName="WordguesserConsole/SecretWord.cs" Line="75" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modul 6" expanded="True">
+            <Node name="WordguesserConsole" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WordguesserConsole PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{61ADEF38-8AB3-434B-B1A6-9CDF20522368}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Opgave 5.2/diceApp.cs">
+    <Files>
+      <File FileName="Opgave 5.2/Program.cs" Line="6" Column="23" />
+      <File FileName="Opgave 5.2/dice.cs" Line="8" Column="7" />
+      <File FileName="Opgave 5.2/diceCup.cs" Line="23" Column="17" />
+      <File FileName="Opgave 5.2/diceApp.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modul 5" expanded="True">
+            <Node name="Opgave 5.2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Opgave_2205.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Opgave_2205.2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{88294A14-09D8-48D2-BA43-DF6477AF1A4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hello/Program.cs">
+    <Files>
+      <File FileName="KondiTal/Program.cs" Line="9" Column="2" />
+      <File FileName="KondiTal/konditalfunktion.cs" Line="21" Column="14" />
+      <File FileName="KondiTal/AgeSchema.cs" Line="13" Column="72" />
+      <File FileName="2talRegneOperator/talregneoperator.cs" />
+      <File FileName="Sum2tal/Program.cs" Line="1" Column="1" />
+      <File FileName="hello/Greeting.cs" Line="1" Column="1" />
+      <File FileName="hello/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modul 1" expanded="True">
+            <Node name="hello" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Sum2tal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.KondiTal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2talRegneOperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hello PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

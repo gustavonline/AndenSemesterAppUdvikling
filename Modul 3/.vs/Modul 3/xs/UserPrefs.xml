@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{4A738680-337D-413F-B17D-47D9902AFDD4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Opgave 3.1/Program.cs">
+    <Files>
+      <File FileName="Opgave 3.1/Program.cs" Line="14" Column="30" />
+      <File FileName="Opgave 3.1/readInputInt.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modul 3" expanded="True">
+            <Node name="Opgave 3.1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Opgave_2203.1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
